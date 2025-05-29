@@ -28,7 +28,7 @@ public class CLI {
 
     public void start() {
         while (true) {
-            System.out.println("\n=== SISTEMA CLI ===");
+            System.out.println("\n=== SISTEMA DE CLINICA VETERINARIA ===");
             System.out.println("1. Gerenciar Serviços");
             System.out.println("2. Gerenciar Animais");
             System.out.println("3. Gerenciar Consultas");
